@@ -1,0 +1,17 @@
+{
+  "name": "build-pkgs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build-umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.47",
+    "esbuild": "^0.14.53",
+    "fast-glob": "^3.2.11"
+  }
+}
