@@ -1,12 +1,14 @@
 {
   "name": "build-pkgs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "build-umd.js",
+  "version": "0.0.0",
+  "private": true,
+  "description": "esbuild utils",
+  "main": "index.js",
+  "files": ["*.js"],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["esbuild"],
   "author": "sam bacha",
   "license": "ISC",
   "dependencies": {
